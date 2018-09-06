@@ -19,7 +19,7 @@ html{
     box-shadow: inset 0 10px 27px rgba(0, 0, 0, 0.75);
 
 }
-.b-title-sec{
+.b-title-sinopse{
     width: 310px;
     margin-top: 40px;
 }
@@ -82,7 +82,7 @@ html{
 /*Breakpoint para tablets*/
 
 @media(min-width: 768px){
-    .b-title-sec{
+    .b-title-sinopse{
         width: 380px;
     }
 
@@ -112,7 +112,7 @@ html{
 /*Breakpoint para desktops comuns*/
 
 @media(min-width: 1024px){
-    .b-title-sec{
+    .b-title-sinopse{
         width: 600px;
     }
 
@@ -146,7 +146,7 @@ html{
 /*Breakpoints para desktops grandes*/
 
 @media(min-width: 1280px){
-    .b-title-sec{
+    .b-title-sinopse{
         width: 713px;
     }
 
